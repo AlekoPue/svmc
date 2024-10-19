@@ -980,3 +980,13 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzxMgAAAZKmS_6vAAA
 TUNNELS
 faculty-loan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 view-diane.gl.at.ply.gg:2172 => 127.0.0.1:2172 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1729366860605 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzxMgAAAZKmS_6vAAAAAQAAAAEAAAAAAAAAAHJVbTfzqPorBeKpgMr4HwwJbIjqpeOxDGP_bkBEs-xn
+
+TUNNELS
+faculty-loan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+view-diane.gl.at.ply.gg:2172 => 127.0.0.1:2172 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
